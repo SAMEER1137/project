@@ -1,0 +1,35 @@
+h1{
+    background-color: blueviolet;
+}
+ .div{ 
+border: solid black }
+
+
+.abc{ margin-top: 50px;
+background-image: url(12.pic); float: left;height: 30%;width: 35%; background-position: center;background-repeat: no-repeat;text-align: center;text-decoration: underline;text-decoration-color: aquamarine;text-transform: capitalize;color: red;text-decoration-line: bold;word-spacing: 3px;font-size: 26px;font-style: oblique; text-size-adjust: 26px;color:red;
+
+}
+
+.efg{  margin-top: 50px;
+
+background-image: url(13.pic); float: left;height: 30%;width: 30%;background-position: center;background-repeat: no-repeat;text-align: center;text-decoration: overline;text-transform: lowercase;text-shadow: 2px;text-overflow: clip;font-size:26px;font-style: inherit;font-weight: 100; 
+}
+
+
+.pqr{ margin-top: 50px;
+    background-image: url(14.pic);float: left;height: 35%;width: 30%;background-position: center;background-repeat: no-repeat;text-align: center;text-decoration: underline;text-decoration-color: aquamarine;text-transform: capitalize;color: rgb(0, 255, 195);text-decoration-line: bold;word-spacing: 3px;font-size: 26px;font-style: initial; text-size-adjust: 26px;color:rgb(111, 0, 255);
+
+}
+
+.tyu{
+    background-image: url(15.pic);
+}
+
+h1{ background-image: url(5pic.jfif);margin-top: 30px;color: blanchedalmond;
+
+}
+
+
+
+
+    

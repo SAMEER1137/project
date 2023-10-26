@@ -1,0 +1,389 @@
+ 
+h1{
+    background-color: red;text-align: center;
+    /* color: white; */
+}
+.grid-container{ 
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: 15% auto 15%;
+    
+    grid-template-rows: 200px;
+    gap:10px;
+    /* padding: 5px; */
+    margin-top: -1.0%;
+    height: 300px;
+    object-fit: cover;
+
+}
+.grid-item{
+    margin-top: 27px;
+}
+
+video{
+    display: flex;
+    width: 100%;
+    object-fit: cover;
+    height: 300px;
+    justify-content: space-around; 
+}
+
+ul{
+    list-style-type: none;
+    padding: 10px;
+    background-color:rgb(255, 121, 3);
+
+}
+a{color: black;}
+li{ 
+    display: inline;
+    font-size: 20px;
+    padding: 17px;
+}
+a{
+
+    text-decoration: none;
+}
+i{
+    font-size: 20px;padding: 15px;
+}
+  
+  
+    h4{background-color: gray;
+        /* padding: 15PX; */
+        font-size: 20PX;
+    }
+ .grid-container1{
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+    object-fit: cover;
+    
+}
+.grid-item1{
+    border: 1px solid brown;
+    background-color: bisque;
+} 
+
+ 
+button{cursor: pointer;
+    font-size: 20px;
+    float: right;
+    margin-top: 80px;
+    align-content: right;
+    background-color:beige;
+    
+}
+button:hover{
+    background-color: green;
+    
+}
+li:hover{ 
+background-color: green;
+/* border: 1px solid black; */
+
+}
+.grid-container2{
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+    object-fit: cover;
+}
+.grid-item2{
+    border: 1px solid brown;
+    background-color: blanchedalmond; 
+ } 
+
+
+b{
+     float:right;
+  font-size: 25px;
+  margin-right: 70px;
+
+  
+}
+.ppp{
+    float: right;
+    margin-right: 90px;
+    padding: 1px;
+}
+.pro{width: 90px;
+height: 50px;
+border: 1px solid violet;
+position: relative;
+}
+/* .fellix{width: 50px;} */
+
+   marquee{
+    /* border: 1px solid red; */
+    font-size: 25px;
+    color: white;
+    background-color: burlywood;
+    /* background-image: url(3.W.jpg); */
+   } 
+   .row{ width: 1490px;
+    /* border: 2px solid black; */
+    height: 2000px; 
+    position: absolute;
+   }
+   h2{
+    border: 2px solid black;
+    background-color:  rgb(36, 36, 36);
+    margin-top: 0%;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+   }
+   h2:hover{
+    background-color: gray;
+/* text-decoration: underline; */
+cursor: pointer;
+}
+   .car{
+    width: 750px;
+    height: 500px;
+    /* border: 2px solid black; */
+    position: relative;
+   }
+   .phto{
+    box-shadow: 0 2px 0 3px rgb(53, 34, 72);
+    object-fit: cover;
+
+    width: 750px;
+    height: 400px;
+    
+   }
+   .bike{
+    width: 695px;
+    height: 500px;
+    /* border: 2px solid black;s */
+    position: relative;
+    margin-top: -500px;
+    margin-left: 792px;
+   }
+
+   .photo{object-fit: cover;
+    /* border: 2px solid black; */
+    width: 695px;
+    height: 400px;
+    box-shadow:0 2px 0 4px rgb(53, 34, 72);
+    
+}
+.wheel3{ width: 750px;
+    height: 500px;
+    /* border: 2px solid; */
+    position: relative;
+    /* margin-top: -20px; */
+    /* padding: 10px; */
+
+}  
+.pht{
+    box-shadow: 0 1px 0 2px rgb(53, 34, 72);
+    object-fit: cover;
+   
+
+    width: 750px;
+    height: 400px;
+}
+
+.Tractor{
+    width: 695px;
+    height: 500px;
+    /* border: 2px solid; */
+    position: relative;
+    margin-top: -500px;
+    margin-left: 792px;
+   }
+
+   .four{object-fit: cover;
+    /* border: 2px solid black; */
+    width: 695px;
+    height: 400px;
+    box-shadow: 0 1px 0 2px rgb(53, 34, 72);}
+
+    .truck{ width: 750px;
+        height: 500px;
+        /* border: 2px solid black; */
+        position: relative;}
+
+        .trup{
+            box-shadow: 0 1px 0 2px rgb(53, 34, 72);
+            object-fit: cover;
+            width: 750px;
+            height: 400px
+        } 
+            .inverter1{
+                width: 700px;
+                height: 500px;
+                /* border: 2px solid black; */
+                position: relative;
+                margin-top: -500px;
+                margin-left: 792px;
+               }
+               .inver{object-fit: cover;
+                /* border: 2px solid black; */
+                width: 700px;
+                height: 400px;
+                box-shadow: 0 1px 0 2px rgb(53, 34, 72);}
+                .combo{
+                    width: 750px;
+                    height: 500px;
+                    border: 2px solid;
+                    position: relative;}
+
+                    .com{
+                        box-shadow: 0 1px 0 2px rgb(53, 34, 72);
+                        object-fit: cover;
+                    
+                        width: 750px;
+                        height: 400px;
+                        
+                       }
+                       .combo1{
+                        width: 695px;
+                        height: 500px;
+                        border: 2px solid;
+                        position: relative;
+                        margin-top: -504px;
+                        margin-left: 792px;
+                       }
+                    
+                       .com1{object-fit: cover;
+                        /* border: 2px solid black; */
+                        width: 695px;
+                        height: 400px;
+                        box-shadow: 0 1px 0 2px rgb(53, 34, 72);
+                        
+                    }
+   
+    /* .add{
+        width: 1400px;
+        height: 550px;
+        border: 2px solid black;
+    } */
+
+   h3{
+    background-color: rgb(252, 238, 192);
+    color: black;
+    font-size: 30px;
+    text-align: center;
+   }
+  
+   .topadd{
+    /* border: 2px solid black; */
+    width: 1400px;
+    height: 500px;
+    background-image: url(inverter.im.jpg);
+    position: relative;
+    animation: myfirst 5s 2;
+    animation-direction: normal;
+    background-repeat: no-repeat;
+    animation-iteration-count: 3;
+    /* animation-delay: 5s; */
+   }
+   @keyframes myfirst{
+    0% {background-image: url(inverter.im.jpg);left: 0px; top: 0px;height: 300px;}
+    25% {background-image: url(combo.1l.jpg);left: 300px;top: 0px;height: 300px;}
+    50% {background-image: url(inverter.imgg1.png);left: 600px;top: 0px;height: 300px;}
+    75% {background-image: url(b.4.jfif);left: 900px;top: 0px;height: 300px;}
+    100% {background-image: url(felix.imb.jpg);left: 1100px;top: 0px;height: 300px;}
+   }
+   .grid{margin-left: 10px;
+/* margin-bottom: 60px; */
+margin-top: 90px;
+}
+.footer{
+    border: 2px solid black;
+    width: 1500px;
+    height: 1005px;
+    /* box-sizing: border-box; */
+
+   }
+.column{
+    float: left;
+    width: 375px;
+    /* padding: 5px; */
+    height: 1005px;
+    /* border: 2px solid red; */
+    background-color:rgb(59, 58, 58);
+    color: white;
+    font-size: 30px;
+}
+.footimglogo{width: 300px;
+    height: 250px;
+    
+}
+.mediaa{font-size: 25px;
+    color: rgb(246, 236, 236);
+}
+
+.fa-linkedin:hover{
+     color: rgb(181, 234, 252); 
+}
+.fa-instagram:hover{color: palevioletred;}
+.fa-facebook:hover{color: rgb(53, 53, 244);}
+.fa-twitter:hover{color: rgb(20, 139, 186);}
+.fa-youtube:hover{color: red;}
+.fa-whatsapp:hover{color: green;}
+.fa-thumbs-up:hover{color: green; cursor: pointer;}
+.fa-thumbs-down:hover{color:red;}
+.fpro{color: rgb(155, 151, 151);
+font-size: 33px;
+text-align: center;
+}
+.text2{
+    color: wheat;
+    text-align: center;
+}
+.text3{
+    text-align: center; 
+    font-size: 25px;
+    padding: 10px;
+}
+.text4{text-align: center;
+font-size: 25px;}
+.lastn{margin-bottom: 0px;
+font-size: 20px;
+/* margin-right: 10px; */
+}
+.center1{text-align: center;}
+.disc{
+    font-size: 19px;
+}
+.fpro1{color: grey;}
+   /* .add{
+    position: absolute;
+   } */
+   /* .topimg{
+    width: 500;
+    height: 500px;
+   } */
+   /* h4{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+   } */
+   
+    .add{
+    border: 2px solid black;
+    width: 1500px;
+    height: 500px;
+    /* background-image: url(amron.p1.webp); */
+    position: relative;
+    animation: myfirs 5s 2;
+    animation-direction: alternate;
+    background-repeat: no-repeat;
+    /* animation-iteration-count: 3; */
+     /* animation-delay: 5s; */
+   }
+   /* @keyframes myfirs{
+    25% {background-image: url(amron.p1.webp);left: 0px; top: 0px;width: 1300px;height: 400px;}
+    75% {background-image: url(amron.p.webp);left: 10px;top: 0px;width: 1300px;height: 400px;}
+   }   */
+   .adds{
+    width: 1500px;
+    height: 500px;
+}
+a:hover{
+    /* text-decoration: underline; */
+opacity: 0.7;
+box-shadow: 2px;}

@@ -1,0 +1,31 @@
+button{ background-image: url(2.pic);
+    float: left;border: 2px solid rgb(5, 5, 5);box-shadow: 4px 4px 2px 2px rgb(9, 9, 11);
+    font-size: x-large;background-color: rgb(32, 8, 245);a:link{  color: blueviolet }
+}
+.ABC{
+    float: RIGHT;cursor: help;
+}
+.XYZ{
+    float: RIGHT;cursor: pointer;cursor:wait
+    g;
+}
+h1{
+    background-image: url(3PIC..jfif);text-align: center;border: 2px;text-shadow: 2px 2px white;
+    /* a:visited{color: red */
+       ; }
+
+h2{
+    border: 2px solid rgb(17, 17, 18);
+     
+}
+form{
+    /* border: 2px solid rgb(20, 20, 21); */
+}
+.pqr{
+    float: right;cursor: unset;
+
+}
+
+.qwe{
+    cursor: context-menu;
+}

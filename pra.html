@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<style>
+div {
+  width: 70px;
+  height: 40px;
+  border: 1px solid black;
+  background-color: azure;
+  font-size: 10px;
+  font-weight: bold;
+}
+.hide{display: block;
+background-color: azure;}
+</style>
+
+<body>
+<!-- <h1>HTML DOM Events</h1>
+<h2>The onmousemove Event</h2> -->
+<p     onmousemove="myFunctionn(event)" onmouseout="clearCoor()"   >deatils</p>
+
+<div class="hide">Length:20cm
+Breath:15cm
+height:7cm
+</div>
+
+
+
+
+<p id="demo"></p>
+
+<script>
+
+
+function clearCoor() {
+  document.getElementById("demo").innerHTML = "";
+}
+
+function myFunctionn(e) 
+{
+
+  document.getElementById("demo").innerHTML = "<div>l=15,b=20,h=9</div>";
+}
+
+
+
+</script>
+
+</body>
+</html>
